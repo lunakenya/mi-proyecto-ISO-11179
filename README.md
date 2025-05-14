@@ -36,14 +36,23 @@ npm run dev
 ## 📁 Estructura del proyecto
 
 /src
+
   ├── App.jsx
+
   ├── gemini.js
+
   ├── utils/
+
   │   └── pdfReader.js
+
   ├── App.css
+
 .gitignore
+
 README.md
+
 vite.config.js
+
 
 ## 🔐 Notas
 
