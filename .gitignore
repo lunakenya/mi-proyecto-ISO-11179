@@ -1,0 +1,42 @@
+# node modules
+node_modules/
+
+# build output
+dist/
+build/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# Vite cache
+.vite/
+.cache/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Optional: local dev artifacts
+*.local
+*.log
+*.tgz
+
+# Optional: coverage reports
+coverage/
+
+# Optional: typescript cache
+*.tsbuildinfo
